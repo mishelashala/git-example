@@ -7,3 +7,7 @@
 ## Commits
 
 1. units of history
+
+## Pull request
+
+fetch + merge
