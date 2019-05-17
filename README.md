@@ -4,6 +4,6 @@
 2. stage area
 3. commit area
 
-## Commits
+## Commits
 
 1. units of history
